@@ -1,0 +1,3 @@
+Maximum value: 180
+Maximum weight: 60
+Items: 3 4 
